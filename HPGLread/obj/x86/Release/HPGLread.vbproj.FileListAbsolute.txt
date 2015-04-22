@@ -1,0 +1,21 @@
+C:\Users\ernak\documents\visual studio 2010\Projects\HPGLread\HPGLread\bin\Release\HPGLread.exe
+C:\Users\ernak\documents\visual studio 2010\Projects\HPGLread\HPGLread\bin\Release\HPGLread.pdb
+C:\Users\ernak\documents\visual studio 2010\Projects\HPGLread\HPGLread\bin\Release\HPGLread.xml
+C:\Users\ernak\documents\visual studio 2010\Projects\HPGLread\HPGLread\obj\x86\Release\HPGLread.Form1.resources
+C:\Users\ernak\documents\visual studio 2010\Projects\HPGLread\HPGLread\obj\x86\Release\HPGLread.Resources.resources
+C:\Users\ernak\documents\visual studio 2010\Projects\HPGLread\HPGLread\obj\x86\Release\HPGLread.vbproj.GenerateResource.Cache
+C:\Users\ernak\documents\visual studio 2010\Projects\HPGLread\HPGLread\obj\x86\Release\HPGLread.exe
+C:\Users\ernak\documents\visual studio 2010\Projects\HPGLread\HPGLread\obj\x86\Release\HPGLread.xml
+C:\Users\ernak\documents\visual studio 2010\Projects\HPGLread\HPGLread\obj\x86\Release\HPGLread.pdb
+C:\Users\ernak\Desktop\HPGLread\HPGLread\bin\Release\HPGLsend.exe
+C:\Users\ernak\Desktop\HPGLread\HPGLread\bin\Release\HPGLsend.pdb
+C:\Users\ernak\Desktop\HPGLread\HPGLread\bin\Release\HPGLsend.xml
+C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Release\HPGLsend.Form1.resources
+C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Release\HPGLsend.Resources.resources
+C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Release\HPGLread.vbproj.GenerateResource.Cache
+C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Release\HPGLsend.exe
+C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Release\HPGLsend.xml
+C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Release\HPGLsend.pdb
+C:\Users\kefcom\Desktop\HPGLsend\HPGLread\obj\x86\Release\HPGLsend.exe
+C:\Users\kefcom\Desktop\HPGLsend\HPGLread\obj\x86\Release\HPGLsend.xml
+C:\Users\kefcom\Desktop\HPGLsend\HPGLread\obj\x86\Release\HPGLsend.pdb

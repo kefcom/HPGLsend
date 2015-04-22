@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HPGLread", "HPGLread\HPGLread.vbproj", "{F515A6A7-2BC4-46CC-97D8-567AC330715D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F515A6A7-2BC4-46CC-97D8-567AC330715D}.Debug|x86.ActiveCfg = Debug|x86
+		{F515A6A7-2BC4-46CC-97D8-567AC330715D}.Debug|x86.Build.0 = Debug|x86
+		{F515A6A7-2BC4-46CC-97D8-567AC330715D}.Release|x86.ActiveCfg = Release|x86
+		{F515A6A7-2BC4-46CC-97D8-567AC330715D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

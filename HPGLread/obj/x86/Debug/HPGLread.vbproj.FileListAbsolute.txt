@@ -1,0 +1,21 @@
+C:\Users\ernak\AppData\Local\Temporary Projects\HPGLread\bin\Debug\HPGLread.exe
+C:\Users\ernak\AppData\Local\Temporary Projects\HPGLread\bin\Debug\HPGLread.pdb
+C:\Users\ernak\AppData\Local\Temporary Projects\HPGLread\bin\Debug\HPGLread.xml
+C:\Users\ernak\AppData\Local\Temporary Projects\HPGLread\obj\x86\Debug\HPGLread.Form1.resources
+C:\Users\ernak\AppData\Local\Temporary Projects\HPGLread\obj\x86\Debug\HPGLread.Resources.resources
+C:\Users\ernak\AppData\Local\Temporary Projects\HPGLread\obj\x86\Debug\HPGLread.vbproj.GenerateResource.Cache
+C:\Users\ernak\AppData\Local\Temporary Projects\HPGLread\obj\x86\Debug\HPGLread.exe
+C:\Users\ernak\AppData\Local\Temporary Projects\HPGLread\obj\x86\Debug\HPGLread.xml
+C:\Users\ernak\AppData\Local\Temporary Projects\HPGLread\obj\x86\Debug\HPGLread.pdb
+C:\Users\ernak\documents\visual studio 2010\Projects\HPGLread\HPGLread\obj\x86\Debug\HPGLread.exe
+C:\Users\ernak\documents\visual studio 2010\Projects\HPGLread\HPGLread\obj\x86\Debug\HPGLread.xml
+C:\Users\ernak\documents\visual studio 2010\Projects\HPGLread\HPGLread\obj\x86\Debug\HPGLread.pdb
+C:\Users\ernak\Desktop\HPGLread\HPGLread\bin\Debug\HPGLsend.exe
+C:\Users\ernak\Desktop\HPGLread\HPGLread\bin\Debug\HPGLsend.pdb
+C:\Users\ernak\Desktop\HPGLread\HPGLread\bin\Debug\HPGLsend.xml
+C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Debug\HPGLsend.Form1.resources
+C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Debug\HPGLsend.Resources.resources
+C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Debug\HPGLread.vbproj.GenerateResource.Cache
+C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Debug\HPGLsend.exe
+C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Debug\HPGLsend.xml
+C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Debug\HPGLsend.pdb
