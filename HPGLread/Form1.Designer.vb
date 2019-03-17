@@ -38,6 +38,7 @@ Partial Class Form1
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.Button3 = New System.Windows.Forms.Button()
+        Me.Button4 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'OFD1
@@ -48,9 +49,9 @@ Partial Class Form1
         'ListBox1
         '
         Me.ListBox1.FormattingEnabled = True
-        Me.ListBox1.Location = New System.Drawing.Point(32, 423)
+        Me.ListBox1.Location = New System.Drawing.Point(276, 5)
         Me.ListBox1.Name = "ListBox1"
-        Me.ListBox1.Size = New System.Drawing.Size(66, 43)
+        Me.ListBox1.Size = New System.Drawing.Size(215, 147)
         Me.ListBox1.TabIndex = 0
         Me.ListBox1.Visible = False
         '
@@ -82,25 +83,26 @@ Partial Class Form1
         '
         'ProgressBar1
         '
-        Me.ProgressBar1.Location = New System.Drawing.Point(12, 101)
+        Me.ProgressBar1.Location = New System.Drawing.Point(12, 129)
         Me.ProgressBar1.Name = "ProgressBar1"
-        Me.ProgressBar1.Size = New System.Drawing.Size(398, 17)
+        Me.ProgressBar1.Size = New System.Drawing.Size(258, 17)
         Me.ProgressBar1.TabIndex = 4
         '
         'Button2
         '
+        Me.Button2.Enabled = False
         Me.Button2.Location = New System.Drawing.Point(12, 67)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(100, 28)
         Me.Button2.TabIndex = 5
-        Me.Button2.Text = "send"
+        Me.Button2.Text = "auto send"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Label2
         '
         Me.Label2.Location = New System.Drawing.Point(118, 67)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(178, 23)
+        Me.Label2.Size = New System.Drawing.Size(152, 23)
         Me.Label2.TabIndex = 7
         Me.Label2.Text = "-"
         '
@@ -119,13 +121,13 @@ Partial Class Form1
         Me.txtdelay.Name = "txtdelay"
         Me.txtdelay.Size = New System.Drawing.Size(23, 20)
         Me.txtdelay.TabIndex = 9
-        Me.txtdelay.Text = "40"
+        Me.txtdelay.Text = "20"
         '
         'Label4
         '
         Me.Label4.Location = New System.Drawing.Point(118, 33)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(178, 23)
+        Me.Label4.Size = New System.Drawing.Size(152, 23)
         Me.Label4.TabIndex = 10
         Me.Label4.Text = "-"
         '
@@ -141,11 +143,21 @@ Partial Class Form1
         Me.Button3.Text = "time?"
         Me.Button3.UseVisualStyleBackColor = True
         '
+        'Button4
+        '
+        Me.Button4.Location = New System.Drawing.Point(12, 101)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(100, 23)
+        Me.Button4.TabIndex = 12
+        Me.Button4.Text = "step"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(416, 123)
+        Me.ClientSize = New System.Drawing.Size(275, 150)
+        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.txtdelay)
@@ -179,5 +191,5 @@ Partial Class Form1
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
     Friend WithEvents Button3 As System.Windows.Forms.Button
-
+    Friend WithEvents Button4 As Button
 End Class

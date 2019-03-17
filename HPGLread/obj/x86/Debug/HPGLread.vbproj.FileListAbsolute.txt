@@ -19,3 +19,14 @@ C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Debug\HPGLread.vbproj.GenerateR
 C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Debug\HPGLsend.exe
 C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Debug\HPGLsend.xml
 C:\Users\ernak\Desktop\HPGLread\HPGLread\obj\x86\Debug\HPGLsend.pdb
+C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\bin\Debug\HPGLsend.exe
+C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\bin\Debug\HPGLsend.pdb
+C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\bin\Debug\HPGLsend.xml
+C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\obj\x86\Debug\HPGLsend.Form1.resources
+C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\obj\x86\Debug\HPGLsend.Resources.resources
+C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\obj\x86\Debug\HPGLread.vbproj.GenerateResource.cache
+C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\obj\x86\Debug\HPGLread.vbproj.CoreCompileInputs.cache
+C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\obj\x86\Debug\HPGLsend.exe
+C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\obj\x86\Debug\HPGLsend.xml
+C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\obj\x86\Debug\HPGLsend.pdb
+C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\obj\x86\Debug\HPGLread.vbprojAssemblyReference.cache
