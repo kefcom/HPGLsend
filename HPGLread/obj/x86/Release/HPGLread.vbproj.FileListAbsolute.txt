@@ -41,3 +41,14 @@ C:\Users\kefco\Desktop\HPGLsend\HPGLread\obj\x86\Release\HPGLread.vbproj.CoreCom
 C:\Users\kefco\Desktop\HPGLsend\HPGLread\obj\x86\Release\HPGLsend.exe
 C:\Users\kefco\Desktop\HPGLsend\HPGLread\obj\x86\Release\HPGLsend.xml
 C:\Users\kefco\Desktop\HPGLsend\HPGLread\obj\x86\Release\HPGLsend.pdb
+C:\temp\projecten\HPGLsend\HPGLread\bin\Release\HPGLsend.exe
+C:\temp\projecten\HPGLsend\HPGLread\bin\Release\HPGLsend.pdb
+C:\temp\projecten\HPGLsend\HPGLread\bin\Release\HPGLsend.xml
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Release\HPGLread.vbproj.AssemblyReference.cache
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Release\HPGLsend.Form1.resources
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Release\HPGLsend.Resources.resources
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Release\HPGLread.vbproj.GenerateResource.cache
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Release\HPGLread.vbproj.CoreCompileInputs.cache
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Release\HPGLsend.exe
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Release\HPGLsend.xml
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Release\HPGLsend.pdb

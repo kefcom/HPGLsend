@@ -30,3 +30,13 @@ C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\obj\x86\Debug\HPGLsend.exe
 C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\obj\x86\Debug\HPGLsend.xml
 C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\obj\x86\Debug\HPGLsend.pdb
 C:\Users\kefco\Desktop\HPGLsend-master\HPGLread\obj\x86\Debug\HPGLread.vbprojAssemblyReference.cache
+C:\temp\projecten\HPGLsend\HPGLread\bin\Debug\HPGLsend.exe
+C:\temp\projecten\HPGLsend\HPGLread\bin\Debug\HPGLsend.pdb
+C:\temp\projecten\HPGLsend\HPGLread\bin\Debug\HPGLsend.xml
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Debug\HPGLsend.Form1.resources
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Debug\HPGLsend.Resources.resources
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Debug\HPGLread.vbproj.GenerateResource.cache
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Debug\HPGLread.vbproj.CoreCompileInputs.cache
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Debug\HPGLsend.exe
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Debug\HPGLsend.xml
+C:\temp\projecten\HPGLsend\HPGLread\obj\x86\Debug\HPGLsend.pdb
